@@ -1,20 +1,20 @@
 "Notes"	"Leading Cancer Sites"	"Leading Cancer Sites Code"	"Year"	"Year Code"	"Age Groups"	"Age Groups Code"	"Sex"	"Sex Code"	"States and Puerto Rico"	"States and Puerto Rico Code"	Count
-	"Brain and Other Nervous System"	"31010-31040"	"2020"	"2020"	"1-4 years"	"1-4"	"Female"	"F"	"California"	"06"	32
-	"Brain and Other Nervous System"	"31010-31040"	"2020"	"2020"	"1-4 years"	"1-4"	"Female"	"F"	"Florida"	"12"	17
-	"Brain and Other Nervous System"	"31010-31040"	"2020"	"2020"	"1-4 years"	"1-4"	"Female"	"F"	"New York"	"36"	16
-	"Brain and Other Nervous System"	"31010-31040"	"2020"	"2020"	"1-4 years"	"1-4"	"Female"	"F"	"Texas"	"48"	22
-	"Brain and Other Nervous System"	"31010-31040"	"2020"	"2020"	"1-4 years"	"1-4"	"Male"	"M"	"California"	"06"	34
-	"Brain and Other Nervous System"	"31010-31040"	"2020"	"2020"	"1-4 years"	"1-4"	"Male"	"M"	"Florida"	"12"	28
-	"Brain and Other Nervous System"	"31010-31040"	"2020"	"2020"	"1-4 years"	"1-4"	"Male"	"M"	"Texas"	"48"	38
-	"Brain and Other Nervous System"	"31010-31040"	"2020"	"2020"	"5-9 years"	"5-9"	"Female"	"F"	"California"	"06"	27
-	"Brain and Other Nervous System"	"31010-31040"	"2020"	"2020"	"5-9 years"	"5-9"	"Female"	"F"	"Florida"	"12"	22
-	"Brain and Other Nervous System"	"31010-31040"	"2020"	"2020"	"5-9 years"	"5-9"	"Female"	"F"	"New York"	"36"	26
-	"Brain and Other Nervous System"	"31010-31040"	"2020"	"2020"	"5-9 years"	"5-9"	"Female"	"F"	"Texas"	"48"	33
-	"Brain and Other Nervous System"	"31010-31040"	"2020"	"2020"	"5-9 years"	"5-9"	"Male"	"M"	"California"	"06"	39
-	"Brain and Other Nervous System"	"31010-31040"	"2020"	"2020"	"5-9 years"	"5-9"	"Male"	"M"	"Florida"	"12"	24
-	"Brain and Other Nervous System"	"31010-31040"	"2020"	"2020"	"5-9 years"	"5-9"	"Male"	"M"	"New York"	"36"	18
-	"Brain and Other Nervous System"	"31010-31040"	"2020"	"2020"	"5-9 years"	"5-9"	"Male"	"M"	"Pennsylvania"	"42"	17
-	"Brain and Other Nervous System"	"31010-31040"	"2020"	"2020"	"5-9 years"	"5-9"	"Male"	"M"	"Texas"	"48"	28
+	"Brain and Other Nervous System"	"31010-31040"	"2020"	"2020"	"1-4 years"	"01-04"	"Female"	"F"	"California"	"06"	32
+	"Brain and Other Nervous System"	"31010-31040"	"2020"	"2020"	"1-4 years"	"01-04"	"Female"	"F"	"Florida"	"12"	17
+	"Brain and Other Nervous System"	"31010-31040"	"2020"	"2020"	"1-4 years"	"01-04"	"Female"	"F"	"New York"	"36"	16
+	"Brain and Other Nervous System"	"31010-31040"	"2020"	"2020"	"1-4 years"	"01-04"	"Female"	"F"	"Texas"	"48"	22
+	"Brain and Other Nervous System"	"31010-31040"	"2020"	"2020"	"1-4 years"	"01-04"	"Male"	"M"	"California"	"06"	34
+	"Brain and Other Nervous System"	"31010-31040"	"2020"	"2020"	"1-4 years"	"01-04"	"Male"	"M"	"Florida"	"12"	28
+	"Brain and Other Nervous System"	"31010-31040"	"2020"	"2020"	"1-4 years"	"01-04"	"Male"	"M"	"Texas"	"48"	38
+	"Brain and Other Nervous System"	"31010-31040"	"2020"	"2020"	"5-9 years"	"05-09"	"Female"	"F"	"California"	"06"	27
+	"Brain and Other Nervous System"	"31010-31040"	"2020"	"2020"	"5-9 years"	"05-09"	"Female"	"F"	"Florida"	"12"	22
+	"Brain and Other Nervous System"	"31010-31040"	"2020"	"2020"	"5-9 years"	"05-09"	"Female"	"F"	"New York"	"36"	26
+	"Brain and Other Nervous System"	"31010-31040"	"2020"	"2020"	"5-9 years"	"05-09"	"Female"	"F"	"Texas"	"48"	33
+	"Brain and Other Nervous System"	"31010-31040"	"2020"	"2020"	"5-9 years"	"05-09"	"Male"	"M"	"California"	"06"	39
+	"Brain and Other Nervous System"	"31010-31040"	"2020"	"2020"	"5-9 years"	"05-09"	"Male"	"M"	"Florida"	"12"	24
+	"Brain and Other Nervous System"	"31010-31040"	"2020"	"2020"	"5-9 years"	"05-09"	"Male"	"M"	"New York"	"36"	18
+	"Brain and Other Nervous System"	"31010-31040"	"2020"	"2020"	"5-9 years"	"05-09"	"Male"	"M"	"Pennsylvania"	"42"	17
+	"Brain and Other Nervous System"	"31010-31040"	"2020"	"2020"	"5-9 years"	"05-09"	"Male"	"M"	"Texas"	"48"	28
 	"Brain and Other Nervous System"	"31010-31040"	"2020"	"2020"	"10-14 years"	"10-14"	"Female"	"F"	"California"	"06"	27
 	"Brain and Other Nervous System"	"31010-31040"	"2020"	"2020"	"10-14 years"	"10-14"	"Female"	"F"	"Pennsylvania"	"42"	22
 	"Brain and Other Nervous System"	"31010-31040"	"2020"	"2020"	"10-14 years"	"10-14"	"Female"	"F"	"Texas"	"48"	27
@@ -3176,8 +3176,8 @@
 	"Gallbladder"	"21080"	"2020"	"2020"	"85+ years"	"85+"	"Female"	"F"	"Pennsylvania"	"42"	19
 	"Gallbladder"	"21080"	"2020"	"2020"	"85+ years"	"85+"	"Female"	"F"	"Texas"	"48"	20
 	"Gallbladder"	"21080"	"2020"	"2020"	"85+ years"	"85+"	"Male"	"M"	"California"	"06"	19
-	"Kidney and Renal Pelvis"	"29020"	"2020"	"2020"	"1-4 years"	"1-4"	"Female"	"F"	"California"	"06"	19
-	"Kidney and Renal Pelvis"	"29020"	"2020"	"2020"	"1-4 years"	"1-4"	"Male"	"M"	"New York"	"36"	17
+	"Kidney and Renal Pelvis"	"29020"	"2020"	"2020"	"1-4 years"	"01-04"	"Female"	"F"	"California"	"06"	19
+	"Kidney and Renal Pelvis"	"29020"	"2020"	"2020"	"1-4 years"	"01-04"	"Male"	"M"	"New York"	"36"	17
 	"Kidney and Renal Pelvis"	"29020"	"2020"	"2020"	"25-29 years"	"25-29"	"Male"	"M"	"Texas"	"48"	16
 	"Kidney and Renal Pelvis"	"29020"	"2020"	"2020"	"30-34 years"	"30-34"	"Female"	"F"	"California"	"06"	27
 	"Kidney and Renal Pelvis"	"29020"	"2020"	"2020"	"30-34 years"	"30-34"	"Female"	"F"	"Florida"	"12"	20
@@ -4159,43 +4159,43 @@
 	"Larynx"	"22020"	"2020"	"2020"	"85+ years"	"85+"	"Male"	"M"	"Pennsylvania"	"42"	36
 	"Larynx"	"22020"	"2020"	"2020"	"85+ years"	"85+"	"Male"	"M"	"Texas"	"48"	40
 	"Larynx"	"22020"	"2020"	"2020"	"85+ years"	"85+"	"Male"	"M"	"Virginia"	"51"	18
-	"Leukemias"	"35011-35043"	"2020"	"2020"	"1-4 years"	"1-4"	"Female"	"F"	"Arizona"	"04"	18
-	"Leukemias"	"35011-35043"	"2020"	"2020"	"1-4 years"	"1-4"	"Female"	"F"	"California"	"06"	79
-	"Leukemias"	"35011-35043"	"2020"	"2020"	"1-4 years"	"1-4"	"Female"	"F"	"Florida"	"12"	33
-	"Leukemias"	"35011-35043"	"2020"	"2020"	"1-4 years"	"1-4"	"Female"	"F"	"Illinois"	"17"	29
-	"Leukemias"	"35011-35043"	"2020"	"2020"	"1-4 years"	"1-4"	"Female"	"F"	"New Jersey"	"34"	16
-	"Leukemias"	"35011-35043"	"2020"	"2020"	"1-4 years"	"1-4"	"Female"	"F"	"New York"	"36"	38
-	"Leukemias"	"35011-35043"	"2020"	"2020"	"1-4 years"	"1-4"	"Female"	"F"	"Ohio"	"39"	17
-	"Leukemias"	"35011-35043"	"2020"	"2020"	"1-4 years"	"1-4"	"Female"	"F"	"Pennsylvania"	"42"	27
-	"Leukemias"	"35011-35043"	"2020"	"2020"	"1-4 years"	"1-4"	"Female"	"F"	"Texas"	"48"	53
-	"Leukemias"	"35011-35043"	"2020"	"2020"	"1-4 years"	"1-4"	"Female"	"F"	"Wisconsin"	"55"	17
-	"Leukemias"	"35011-35043"	"2020"	"2020"	"1-4 years"	"1-4"	"Male"	"M"	"Arizona"	"04"	17
-	"Leukemias"	"35011-35043"	"2020"	"2020"	"1-4 years"	"1-4"	"Male"	"M"	"California"	"06"	90
-	"Leukemias"	"35011-35043"	"2020"	"2020"	"1-4 years"	"1-4"	"Male"	"M"	"Florida"	"12"	48
-	"Leukemias"	"35011-35043"	"2020"	"2020"	"1-4 years"	"1-4"	"Male"	"M"	"Georgia"	"13"	35
-	"Leukemias"	"35011-35043"	"2020"	"2020"	"1-4 years"	"1-4"	"Male"	"M"	"Illinois"	"17"	22
-	"Leukemias"	"35011-35043"	"2020"	"2020"	"1-4 years"	"1-4"	"Male"	"M"	"Maryland"	"24"	17
-	"Leukemias"	"35011-35043"	"2020"	"2020"	"1-4 years"	"1-4"	"Male"	"M"	"New Jersey"	"34"	17
-	"Leukemias"	"35011-35043"	"2020"	"2020"	"1-4 years"	"1-4"	"Male"	"M"	"New York"	"36"	49
-	"Leukemias"	"35011-35043"	"2020"	"2020"	"1-4 years"	"1-4"	"Male"	"M"	"North Carolina"	"37"	22
-	"Leukemias"	"35011-35043"	"2020"	"2020"	"1-4 years"	"1-4"	"Male"	"M"	"Ohio"	"39"	24
-	"Leukemias"	"35011-35043"	"2020"	"2020"	"1-4 years"	"1-4"	"Male"	"M"	"Pennsylvania"	"42"	18
-	"Leukemias"	"35011-35043"	"2020"	"2020"	"1-4 years"	"1-4"	"Male"	"M"	"Tennessee"	"47"	18
-	"Leukemias"	"35011-35043"	"2020"	"2020"	"1-4 years"	"1-4"	"Male"	"M"	"Texas"	"48"	88
-	"Leukemias"	"35011-35043"	"2020"	"2020"	"1-4 years"	"1-4"	"Male"	"M"	"Virginia"	"51"	25
-	"Leukemias"	"35011-35043"	"2020"	"2020"	"1-4 years"	"1-4"	"Male"	"M"	"Washington"	"53"	21
-	"Leukemias"	"35011-35043"	"2020"	"2020"	"5-9 years"	"5-9"	"Female"	"F"	"California"	"06"	47
-	"Leukemias"	"35011-35043"	"2020"	"2020"	"5-9 years"	"5-9"	"Female"	"F"	"Florida"	"12"	30
-	"Leukemias"	"35011-35043"	"2020"	"2020"	"5-9 years"	"5-9"	"Female"	"F"	"Maryland"	"24"	16
-	"Leukemias"	"35011-35043"	"2020"	"2020"	"5-9 years"	"5-9"	"Female"	"F"	"New York"	"36"	28
-	"Leukemias"	"35011-35043"	"2020"	"2020"	"5-9 years"	"5-9"	"Female"	"F"	"Pennsylvania"	"42"	19
-	"Leukemias"	"35011-35043"	"2020"	"2020"	"5-9 years"	"5-9"	"Female"	"F"	"Texas"	"48"	58
-	"Leukemias"	"35011-35043"	"2020"	"2020"	"5-9 years"	"5-9"	"Male"	"M"	"California"	"06"	59
-	"Leukemias"	"35011-35043"	"2020"	"2020"	"5-9 years"	"5-9"	"Male"	"M"	"Florida"	"12"	31
-	"Leukemias"	"35011-35043"	"2020"	"2020"	"5-9 years"	"5-9"	"Male"	"M"	"Georgia"	"13"	17
-	"Leukemias"	"35011-35043"	"2020"	"2020"	"5-9 years"	"5-9"	"Male"	"M"	"New York"	"36"	29
-	"Leukemias"	"35011-35043"	"2020"	"2020"	"5-9 years"	"5-9"	"Male"	"M"	"Ohio"	"39"	17
-	"Leukemias"	"35011-35043"	"2020"	"2020"	"5-9 years"	"5-9"	"Male"	"M"	"Texas"	"48"	61
+	"Leukemias"	"35011-35043"	"2020"	"2020"	"1-4 years"	"01-04"	"Female"	"F"	"Arizona"	"04"	18
+	"Leukemias"	"35011-35043"	"2020"	"2020"	"1-4 years"	"01-04"	"Female"	"F"	"California"	"06"	79
+	"Leukemias"	"35011-35043"	"2020"	"2020"	"1-4 years"	"01-04"	"Female"	"F"	"Florida"	"12"	33
+	"Leukemias"	"35011-35043"	"2020"	"2020"	"1-4 years"	"01-04"	"Female"	"F"	"Illinois"	"17"	29
+	"Leukemias"	"35011-35043"	"2020"	"2020"	"1-4 years"	"01-04"	"Female"	"F"	"New Jersey"	"34"	16
+	"Leukemias"	"35011-35043"	"2020"	"2020"	"1-4 years"	"01-04"	"Female"	"F"	"New York"	"36"	38
+	"Leukemias"	"35011-35043"	"2020"	"2020"	"1-4 years"	"01-04"	"Female"	"F"	"Ohio"	"39"	17
+	"Leukemias"	"35011-35043"	"2020"	"2020"	"1-4 years"	"01-04"	"Female"	"F"	"Pennsylvania"	"42"	27
+	"Leukemias"	"35011-35043"	"2020"	"2020"	"1-4 years"	"01-04"	"Female"	"F"	"Texas"	"48"	53
+	"Leukemias"	"35011-35043"	"2020"	"2020"	"1-4 years"	"01-04"	"Female"	"F"	"Wisconsin"	"55"	17
+	"Leukemias"	"35011-35043"	"2020"	"2020"	"1-4 years"	"01-04"	"Male"	"M"	"Arizona"	"04"	17
+	"Leukemias"	"35011-35043"	"2020"	"2020"	"1-4 years"	"01-04"	"Male"	"M"	"California"	"06"	90
+	"Leukemias"	"35011-35043"	"2020"	"2020"	"1-4 years"	"01-04"	"Male"	"M"	"Florida"	"12"	48
+	"Leukemias"	"35011-35043"	"2020"	"2020"	"1-4 years"	"01-04"	"Male"	"M"	"Georgia"	"13"	35
+	"Leukemias"	"35011-35043"	"2020"	"2020"	"1-4 years"	"01-04"	"Male"	"M"	"Illinois"	"17"	22
+	"Leukemias"	"35011-35043"	"2020"	"2020"	"1-4 years"	"01-04"	"Male"	"M"	"Maryland"	"24"	17
+	"Leukemias"	"35011-35043"	"2020"	"2020"	"1-4 years"	"01-04"	"Male"	"M"	"New Jersey"	"34"	17
+	"Leukemias"	"35011-35043"	"2020"	"2020"	"1-4 years"	"01-04"	"Male"	"M"	"New York"	"36"	49
+	"Leukemias"	"35011-35043"	"2020"	"2020"	"1-4 years"	"01-04"	"Male"	"M"	"North Carolina"	"37"	22
+	"Leukemias"	"35011-35043"	"2020"	"2020"	"1-4 years"	"01-04"	"Male"	"M"	"Ohio"	"39"	24
+	"Leukemias"	"35011-35043"	"2020"	"2020"	"1-4 years"	"01-04"	"Male"	"M"	"Pennsylvania"	"42"	18
+	"Leukemias"	"35011-35043"	"2020"	"2020"	"1-4 years"	"01-04"	"Male"	"M"	"Tennessee"	"47"	18
+	"Leukemias"	"35011-35043"	"2020"	"2020"	"1-4 years"	"01-04"	"Male"	"M"	"Texas"	"48"	88
+	"Leukemias"	"35011-35043"	"2020"	"2020"	"1-4 years"	"01-04"	"Male"	"M"	"Virginia"	"51"	25
+	"Leukemias"	"35011-35043"	"2020"	"2020"	"1-4 years"	"01-04"	"Male"	"M"	"Washington"	"53"	21
+	"Leukemias"	"35011-35043"	"2020"	"2020"	"5-9 years"	"05-09"	"Female"	"F"	"California"	"06"	47
+	"Leukemias"	"35011-35043"	"2020"	"2020"	"5-9 years"	"05-09"	"Female"	"F"	"Florida"	"12"	30
+	"Leukemias"	"35011-35043"	"2020"	"2020"	"5-9 years"	"05-09"	"Female"	"F"	"Maryland"	"24"	16
+	"Leukemias"	"35011-35043"	"2020"	"2020"	"5-9 years"	"05-09"	"Female"	"F"	"New York"	"36"	28
+	"Leukemias"	"35011-35043"	"2020"	"2020"	"5-9 years"	"05-09"	"Female"	"F"	"Pennsylvania"	"42"	19
+	"Leukemias"	"35011-35043"	"2020"	"2020"	"5-9 years"	"05-09"	"Female"	"F"	"Texas"	"48"	58
+	"Leukemias"	"35011-35043"	"2020"	"2020"	"5-9 years"	"05-09"	"Male"	"M"	"California"	"06"	59
+	"Leukemias"	"35011-35043"	"2020"	"2020"	"5-9 years"	"05-09"	"Male"	"M"	"Florida"	"12"	31
+	"Leukemias"	"35011-35043"	"2020"	"2020"	"5-9 years"	"05-09"	"Male"	"M"	"Georgia"	"13"	17
+	"Leukemias"	"35011-35043"	"2020"	"2020"	"5-9 years"	"05-09"	"Male"	"M"	"New York"	"36"	29
+	"Leukemias"	"35011-35043"	"2020"	"2020"	"5-9 years"	"05-09"	"Male"	"M"	"Ohio"	"39"	17
+	"Leukemias"	"35011-35043"	"2020"	"2020"	"5-9 years"	"05-09"	"Male"	"M"	"Texas"	"48"	61
 	"Leukemias"	"35011-35043"	"2020"	"2020"	"10-14 years"	"10-14"	"Female"	"F"	"California"	"06"	40
 	"Leukemias"	"35011-35043"	"2020"	"2020"	"10-14 years"	"10-14"	"Female"	"F"	"Texas"	"48"	37
 	"Leukemias"	"35011-35043"	"2020"	"2020"	"10-14 years"	"10-14"	"Male"	"M"	"California"	"06"	59

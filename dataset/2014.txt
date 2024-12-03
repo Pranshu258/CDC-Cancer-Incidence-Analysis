@@ -1,25 +1,25 @@
 "Notes"	"Leading Cancer Sites"	"Leading Cancer Sites Code"	"Year"	"Year Code"	"Age Groups"	"Age Groups Code"	"Sex"	"Sex Code"	"States and Puerto Rico"	"States and Puerto Rico Code"	Count
-	"Brain and Other Nervous System"	"31010-31040"	"2014"	"2014"	"1-4 years"	"1-4"	"Female"	"F"	"California"	"06"	48
-	"Brain and Other Nervous System"	"31010-31040"	"2014"	"2014"	"1-4 years"	"1-4"	"Female"	"F"	"Florida"	"12"	21
-	"Brain and Other Nervous System"	"31010-31040"	"2014"	"2014"	"1-4 years"	"1-4"	"Female"	"F"	"New York"	"36"	24
-	"Brain and Other Nervous System"	"31010-31040"	"2014"	"2014"	"1-4 years"	"1-4"	"Female"	"F"	"Ohio"	"39"	19
-	"Brain and Other Nervous System"	"31010-31040"	"2014"	"2014"	"1-4 years"	"1-4"	"Female"	"F"	"Pennsylvania"	"42"	17
-	"Brain and Other Nervous System"	"31010-31040"	"2014"	"2014"	"1-4 years"	"1-4"	"Female"	"F"	"Texas"	"48"	39
-	"Brain and Other Nervous System"	"31010-31040"	"2014"	"2014"	"1-4 years"	"1-4"	"Male"	"M"	"California"	"06"	38
-	"Brain and Other Nervous System"	"31010-31040"	"2014"	"2014"	"1-4 years"	"1-4"	"Male"	"M"	"Florida"	"12"	21
-	"Brain and Other Nervous System"	"31010-31040"	"2014"	"2014"	"1-4 years"	"1-4"	"Male"	"M"	"New York"	"36"	23
-	"Brain and Other Nervous System"	"31010-31040"	"2014"	"2014"	"1-4 years"	"1-4"	"Male"	"M"	"Pennsylvania"	"42"	17
-	"Brain and Other Nervous System"	"31010-31040"	"2014"	"2014"	"1-4 years"	"1-4"	"Male"	"M"	"Texas"	"48"	38
-	"Brain and Other Nervous System"	"31010-31040"	"2014"	"2014"	"5-9 years"	"5-9"	"Female"	"F"	"California"	"06"	39
-	"Brain and Other Nervous System"	"31010-31040"	"2014"	"2014"	"5-9 years"	"5-9"	"Female"	"F"	"Georgia"	"13"	17
-	"Brain and Other Nervous System"	"31010-31040"	"2014"	"2014"	"5-9 years"	"5-9"	"Female"	"F"	"Illinois"	"17"	21
-	"Brain and Other Nervous System"	"31010-31040"	"2014"	"2014"	"5-9 years"	"5-9"	"Female"	"F"	"New York"	"36"	26
-	"Brain and Other Nervous System"	"31010-31040"	"2014"	"2014"	"5-9 years"	"5-9"	"Female"	"F"	"Texas"	"48"	42
-	"Brain and Other Nervous System"	"31010-31040"	"2014"	"2014"	"5-9 years"	"5-9"	"Male"	"M"	"California"	"06"	40
-	"Brain and Other Nervous System"	"31010-31040"	"2014"	"2014"	"5-9 years"	"5-9"	"Male"	"M"	"Florida"	"12"	23
-	"Brain and Other Nervous System"	"31010-31040"	"2014"	"2014"	"5-9 years"	"5-9"	"Male"	"M"	"New Jersey"	"34"	17
-	"Brain and Other Nervous System"	"31010-31040"	"2014"	"2014"	"5-9 years"	"5-9"	"Male"	"M"	"New York"	"36"	24
-	"Brain and Other Nervous System"	"31010-31040"	"2014"	"2014"	"5-9 years"	"5-9"	"Male"	"M"	"Texas"	"48"	43
+	"Brain and Other Nervous System"	"31010-31040"	"2014"	"2014"	"1-4 years"	"01-04"	"Female"	"F"	"California"	"06"	48
+	"Brain and Other Nervous System"	"31010-31040"	"2014"	"2014"	"1-4 years"	"01-04"	"Female"	"F"	"Florida"	"12"	21
+	"Brain and Other Nervous System"	"31010-31040"	"2014"	"2014"	"1-4 years"	"01-04"	"Female"	"F"	"New York"	"36"	24
+	"Brain and Other Nervous System"	"31010-31040"	"2014"	"2014"	"1-4 years"	"01-04"	"Female"	"F"	"Ohio"	"39"	19
+	"Brain and Other Nervous System"	"31010-31040"	"2014"	"2014"	"1-4 years"	"01-04"	"Female"	"F"	"Pennsylvania"	"42"	17
+	"Brain and Other Nervous System"	"31010-31040"	"2014"	"2014"	"1-4 years"	"01-04"	"Female"	"F"	"Texas"	"48"	39
+	"Brain and Other Nervous System"	"31010-31040"	"2014"	"2014"	"1-4 years"	"01-04"	"Male"	"M"	"California"	"06"	38
+	"Brain and Other Nervous System"	"31010-31040"	"2014"	"2014"	"1-4 years"	"01-04"	"Male"	"M"	"Florida"	"12"	21
+	"Brain and Other Nervous System"	"31010-31040"	"2014"	"2014"	"1-4 years"	"01-04"	"Male"	"M"	"New York"	"36"	23
+	"Brain and Other Nervous System"	"31010-31040"	"2014"	"2014"	"1-4 years"	"01-04"	"Male"	"M"	"Pennsylvania"	"42"	17
+	"Brain and Other Nervous System"	"31010-31040"	"2014"	"2014"	"1-4 years"	"01-04"	"Male"	"M"	"Texas"	"48"	38
+	"Brain and Other Nervous System"	"31010-31040"	"2014"	"2014"	"5-9 years"	"05-09"	"Female"	"F"	"California"	"06"	39
+	"Brain and Other Nervous System"	"31010-31040"	"2014"	"2014"	"5-9 years"	"05-09"	"Female"	"F"	"Georgia"	"13"	17
+	"Brain and Other Nervous System"	"31010-31040"	"2014"	"2014"	"5-9 years"	"05-09"	"Female"	"F"	"Illinois"	"17"	21
+	"Brain and Other Nervous System"	"31010-31040"	"2014"	"2014"	"5-9 years"	"05-09"	"Female"	"F"	"New York"	"36"	26
+	"Brain and Other Nervous System"	"31010-31040"	"2014"	"2014"	"5-9 years"	"05-09"	"Female"	"F"	"Texas"	"48"	42
+	"Brain and Other Nervous System"	"31010-31040"	"2014"	"2014"	"5-9 years"	"05-09"	"Male"	"M"	"California"	"06"	40
+	"Brain and Other Nervous System"	"31010-31040"	"2014"	"2014"	"5-9 years"	"05-09"	"Male"	"M"	"Florida"	"12"	23
+	"Brain and Other Nervous System"	"31010-31040"	"2014"	"2014"	"5-9 years"	"05-09"	"Male"	"M"	"New Jersey"	"34"	17
+	"Brain and Other Nervous System"	"31010-31040"	"2014"	"2014"	"5-9 years"	"05-09"	"Male"	"M"	"New York"	"36"	24
+	"Brain and Other Nervous System"	"31010-31040"	"2014"	"2014"	"5-9 years"	"05-09"	"Male"	"M"	"Texas"	"48"	43
 	"Brain and Other Nervous System"	"31010-31040"	"2014"	"2014"	"10-14 years"	"10-14"	"Female"	"F"	"California"	"06"	22
 	"Brain and Other Nervous System"	"31010-31040"	"2014"	"2014"	"10-14 years"	"10-14"	"Female"	"F"	"Florida"	"12"	28
 	"Brain and Other Nervous System"	"31010-31040"	"2014"	"2014"	"10-14 years"	"10-14"	"Female"	"F"	"New York"	"36"	23
@@ -3214,10 +3214,10 @@
 	"Gallbladder"	"21080"	"2014"	"2014"	"85+ years"	"85+"	"Female"	"F"	"Ohio"	"39"	17
 	"Gallbladder"	"21080"	"2014"	"2014"	"85+ years"	"85+"	"Female"	"F"	"Pennsylvania"	"42"	21
 	"Gallbladder"	"21080"	"2014"	"2014"	"85+ years"	"85+"	"Female"	"F"	"Texas"	"48"	18
-	"Kidney and Renal Pelvis"	"29020"	"2014"	"2014"	"1-4 years"	"1-4"	"Female"	"F"	"California"	"06"	17
-	"Kidney and Renal Pelvis"	"29020"	"2014"	"2014"	"1-4 years"	"1-4"	"Female"	"F"	"Texas"	"48"	19
-	"Kidney and Renal Pelvis"	"29020"	"2014"	"2014"	"1-4 years"	"1-4"	"Male"	"M"	"California"	"06"	18
-	"Kidney and Renal Pelvis"	"29020"	"2014"	"2014"	"1-4 years"	"1-4"	"Male"	"M"	"Texas"	"48"	16
+	"Kidney and Renal Pelvis"	"29020"	"2014"	"2014"	"1-4 years"	"01-04"	"Female"	"F"	"California"	"06"	17
+	"Kidney and Renal Pelvis"	"29020"	"2014"	"2014"	"1-4 years"	"01-04"	"Female"	"F"	"Texas"	"48"	19
+	"Kidney and Renal Pelvis"	"29020"	"2014"	"2014"	"1-4 years"	"01-04"	"Male"	"M"	"California"	"06"	18
+	"Kidney and Renal Pelvis"	"29020"	"2014"	"2014"	"1-4 years"	"01-04"	"Male"	"M"	"Texas"	"48"	16
 	"Kidney and Renal Pelvis"	"29020"	"2014"	"2014"	"25-29 years"	"25-29"	"Male"	"M"	"Texas"	"48"	16
 	"Kidney and Renal Pelvis"	"29020"	"2014"	"2014"	"30-34 years"	"30-34"	"Female"	"F"	"California"	"06"	30
 	"Kidney and Renal Pelvis"	"29020"	"2014"	"2014"	"30-34 years"	"30-34"	"Female"	"F"	"Kentucky"	"21"	17
@@ -4244,45 +4244,45 @@
 	"Larynx"	"22020"	"2014"	"2014"	"85+ years"	"85+"	"Male"	"M"	"Ohio"	"39"	21
 	"Larynx"	"22020"	"2014"	"2014"	"85+ years"	"85+"	"Male"	"M"	"Pennsylvania"	"42"	40
 	"Larynx"	"22020"	"2014"	"2014"	"85+ years"	"85+"	"Male"	"M"	"Texas"	"48"	29
-	"Leukemias"	"35011-35043"	"2014"	"2014"	"< 1 year"	"1"	"Male"	"M"	"California"	"06"	20
-	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"1-4"	"Female"	"F"	"California"	"06"	106
-	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"1-4"	"Female"	"F"	"Florida"	"12"	40
-	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"1-4"	"Female"	"F"	"Georgia"	"13"	19
-	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"1-4"	"Female"	"F"	"Illinois"	"17"	30
-	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"1-4"	"Female"	"F"	"Michigan"	"26"	18
-	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"1-4"	"Female"	"F"	"New Jersey"	"34"	27
-	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"1-4"	"Female"	"F"	"New York"	"36"	33
-	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"1-4"	"Female"	"F"	"North Carolina"	"37"	18
-	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"1-4"	"Female"	"F"	"Pennsylvania"	"42"	17
-	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"1-4"	"Female"	"F"	"Tennessee"	"47"	17
-	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"1-4"	"Female"	"F"	"Texas"	"48"	65
-	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"1-4"	"Male"	"M"	"Arizona"	"04"	16
-	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"1-4"	"Male"	"M"	"California"	"06"	107
-	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"1-4"	"Male"	"M"	"Florida"	"12"	31
-	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"1-4"	"Male"	"M"	"Georgia"	"13"	16
-	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"1-4"	"Male"	"M"	"Illinois"	"17"	28
-	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"1-4"	"Male"	"M"	"Maryland"	"24"	17
-	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"1-4"	"Male"	"M"	"Michigan"	"26"	24
-	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"1-4"	"Male"	"M"	"Missouri"	"29"	16
-	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"1-4"	"Male"	"M"	"New York"	"36"	52
-	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"1-4"	"Male"	"M"	"North Carolina"	"37"	32
-	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"1-4"	"Male"	"M"	"Ohio"	"39"	25
-	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"1-4"	"Male"	"M"	"Oregon"	"41"	17
-	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"1-4"	"Male"	"M"	"Pennsylvania"	"42"	35
-	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"1-4"	"Male"	"M"	"Texas"	"48"	74
-	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"1-4"	"Male"	"M"	"Virginia"	"51"	27
-	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"1-4"	"Male"	"M"	"Washington"	"53"	16
-	"Leukemias"	"35011-35043"	"2014"	"2014"	"5-9 years"	"5-9"	"Female"	"F"	"California"	"06"	48
-	"Leukemias"	"35011-35043"	"2014"	"2014"	"5-9 years"	"5-9"	"Female"	"F"	"Florida"	"12"	22
-	"Leukemias"	"35011-35043"	"2014"	"2014"	"5-9 years"	"5-9"	"Female"	"F"	"New York"	"36"	28
-	"Leukemias"	"35011-35043"	"2014"	"2014"	"5-9 years"	"5-9"	"Female"	"F"	"Texas"	"48"	46
-	"Leukemias"	"35011-35043"	"2014"	"2014"	"5-9 years"	"5-9"	"Male"	"M"	"California"	"06"	78
-	"Leukemias"	"35011-35043"	"2014"	"2014"	"5-9 years"	"5-9"	"Male"	"M"	"Florida"	"12"	34
-	"Leukemias"	"35011-35043"	"2014"	"2014"	"5-9 years"	"5-9"	"Male"	"M"	"Illinois"	"17"	20
-	"Leukemias"	"35011-35043"	"2014"	"2014"	"5-9 years"	"5-9"	"Male"	"M"	"New Jersey"	"34"	21
-	"Leukemias"	"35011-35043"	"2014"	"2014"	"5-9 years"	"5-9"	"Male"	"M"	"New York"	"36"	32
-	"Leukemias"	"35011-35043"	"2014"	"2014"	"5-9 years"	"5-9"	"Male"	"M"	"Texas"	"48"	47
-	"Leukemias"	"35011-35043"	"2014"	"2014"	"5-9 years"	"5-9"	"Male"	"M"	"Washington"	"53"	17
+	"Leukemias"	"35011-35043"	"2014"	"2014"	"< 1 year"	"00-01"	"Male"	"M"	"California"	"06"	20
+	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"01-04"	"Female"	"F"	"California"	"06"	106
+	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"01-04"	"Female"	"F"	"Florida"	"12"	40
+	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"01-04"	"Female"	"F"	"Georgia"	"13"	19
+	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"01-04"	"Female"	"F"	"Illinois"	"17"	30
+	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"01-04"	"Female"	"F"	"Michigan"	"26"	18
+	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"01-04"	"Female"	"F"	"New Jersey"	"34"	27
+	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"01-04"	"Female"	"F"	"New York"	"36"	33
+	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"01-04"	"Female"	"F"	"North Carolina"	"37"	18
+	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"01-04"	"Female"	"F"	"Pennsylvania"	"42"	17
+	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"01-04"	"Female"	"F"	"Tennessee"	"47"	17
+	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"01-04"	"Female"	"F"	"Texas"	"48"	65
+	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"01-04"	"Male"	"M"	"Arizona"	"04"	16
+	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"01-04"	"Male"	"M"	"California"	"06"	107
+	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"01-04"	"Male"	"M"	"Florida"	"12"	31
+	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"01-04"	"Male"	"M"	"Georgia"	"13"	16
+	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"01-04"	"Male"	"M"	"Illinois"	"17"	28
+	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"01-04"	"Male"	"M"	"Maryland"	"24"	17
+	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"01-04"	"Male"	"M"	"Michigan"	"26"	24
+	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"01-04"	"Male"	"M"	"Missouri"	"29"	16
+	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"01-04"	"Male"	"M"	"New York"	"36"	52
+	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"01-04"	"Male"	"M"	"North Carolina"	"37"	32
+	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"01-04"	"Male"	"M"	"Ohio"	"39"	25
+	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"01-04"	"Male"	"M"	"Oregon"	"41"	17
+	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"01-04"	"Male"	"M"	"Pennsylvania"	"42"	35
+	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"01-04"	"Male"	"M"	"Texas"	"48"	74
+	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"01-04"	"Male"	"M"	"Virginia"	"51"	27
+	"Leukemias"	"35011-35043"	"2014"	"2014"	"1-4 years"	"01-04"	"Male"	"M"	"Washington"	"53"	16
+	"Leukemias"	"35011-35043"	"2014"	"2014"	"5-9 years"	"05-09"	"Female"	"F"	"California"	"06"	48
+	"Leukemias"	"35011-35043"	"2014"	"2014"	"5-9 years"	"05-09"	"Female"	"F"	"Florida"	"12"	22
+	"Leukemias"	"35011-35043"	"2014"	"2014"	"5-9 years"	"05-09"	"Female"	"F"	"New York"	"36"	28
+	"Leukemias"	"35011-35043"	"2014"	"2014"	"5-9 years"	"05-09"	"Female"	"F"	"Texas"	"48"	46
+	"Leukemias"	"35011-35043"	"2014"	"2014"	"5-9 years"	"05-09"	"Male"	"M"	"California"	"06"	78
+	"Leukemias"	"35011-35043"	"2014"	"2014"	"5-9 years"	"05-09"	"Male"	"M"	"Florida"	"12"	34
+	"Leukemias"	"35011-35043"	"2014"	"2014"	"5-9 years"	"05-09"	"Male"	"M"	"Illinois"	"17"	20
+	"Leukemias"	"35011-35043"	"2014"	"2014"	"5-9 years"	"05-09"	"Male"	"M"	"New Jersey"	"34"	21
+	"Leukemias"	"35011-35043"	"2014"	"2014"	"5-9 years"	"05-09"	"Male"	"M"	"New York"	"36"	32
+	"Leukemias"	"35011-35043"	"2014"	"2014"	"5-9 years"	"05-09"	"Male"	"M"	"Texas"	"48"	47
+	"Leukemias"	"35011-35043"	"2014"	"2014"	"5-9 years"	"05-09"	"Male"	"M"	"Washington"	"53"	17
 	"Leukemias"	"35011-35043"	"2014"	"2014"	"10-14 years"	"10-14"	"Female"	"F"	"California"	"06"	34
 	"Leukemias"	"35011-35043"	"2014"	"2014"	"10-14 years"	"10-14"	"Female"	"F"	"Florida"	"12"	18
 	"Leukemias"	"35011-35043"	"2014"	"2014"	"10-14 years"	"10-14"	"Female"	"F"	"Texas"	"48"	37
@@ -7781,7 +7781,7 @@
 	"Myeloma"	"34000"	"2014"	"2014"	"85+ years"	"85+"	"Male"	"M"	"Virginia"	"51"	23
 	"Myeloma"	"34000"	"2014"	"2014"	"85+ years"	"85+"	"Male"	"M"	"Washington"	"53"	17
 	"Myeloma"	"34000"	"2014"	"2014"	"85+ years"	"85+"	"Male"	"M"	"Wisconsin"	"55"	33
-	"Non-Hodgkin Lymphoma"	"33041-33042"	"2014"	"2014"	"5-9 years"	"5-9"	"Male"	"M"	"California"	"06"	22
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"2014"	"2014"	"5-9 years"	"05-09"	"Male"	"M"	"California"	"06"	22
 	"Non-Hodgkin Lymphoma"	"33041-33042"	"2014"	"2014"	"10-14 years"	"10-14"	"Male"	"M"	"California"	"06"	24
 	"Non-Hodgkin Lymphoma"	"33041-33042"	"2014"	"2014"	"10-14 years"	"10-14"	"Male"	"M"	"Texas"	"48"	21
 	"Non-Hodgkin Lymphoma"	"33041-33042"	"2014"	"2014"	"15-19 years"	"15-19"	"Female"	"F"	"California"	"06"	24
